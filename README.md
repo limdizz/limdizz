@@ -42,5 +42,3 @@ Here are some ideas to get you started:
 ### Profile Statistics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=limdizz&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=limdizz&theme=github_dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=limdizz&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
